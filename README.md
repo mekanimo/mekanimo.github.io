@@ -1,2 +1,2 @@
 # simetri.graphics API Documentation
-[simetri.graphics API documentation](https://simetri.github.io/simetri/index.html)
+[simetri.graphics API documentation](https://mekanimo.github.io/simetri/index.html)
