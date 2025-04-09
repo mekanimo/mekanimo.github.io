@@ -1,3 +1,3 @@
 # API Documentation
 
-[API Documentation](https://mekanimo.github.io/#mekanimo/simetri/index.html)
+[API Documentation](https://mekanimo.github.io/index.html)
